@@ -1,0 +1,26 @@
+
+###
+GET http://localhost:8080/hello;
+
+
+###
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+
+
+name=Eltaj&password=190407011
+
+
+###
+POST http://localhost:8080/xml
+Content-Type: application/x-www-form-urlencoded
+
+name=Eltaj&pass=645454
+
+
+
+###
+POST http://localhost:8080/form
+Content-Type: application/x-www-form-urlencoded
+
+x=4&y=5

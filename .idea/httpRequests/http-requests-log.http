@@ -1,0 +1,131 @@
+POST http://localhost:8080/form
+Content-Type: application/x-www-form-urlencoded
+
+x=4&y=5
+
+<> 2023-02-15T230921.200.txt
+
+###
+
+POST http://localhost:8080/form
+Content-Type: application/x-www-form-urlencoded
+
+x=4&y=5
+
+<> 2023-02-15T230844.200.txt
+
+###
+
+POST http://localhost:8080/form
+Content-Type: application/x-www-form-urlencoded
+
+x=4&y=5
+
+<> 2023-02-15T225801.200.txt
+
+###
+
+POST http://localhost:8080/form
+Content-Type: application/x-www-form-urlencoded
+
+x=4&y=5
+
+<> 2023-02-15T225543.405.html
+
+###
+
+POST http://localhost:8080/xml
+Content-Type: application/x-www-form-urlencoded
+
+name=Eltaj&pass=645454
+
+<> 2023-02-15T172928.200.txt
+
+###
+
+POST http://localhost:8080/xml
+
+name=Eltaj&pass=645454
+
+<> 2023-02-15T172904.200.txt
+
+###
+
+POST http://localhost:8080/xml
+
+name=Eltaj&pass=645454
+
+<> 2023-02-15T172809.200.txt
+
+###
+
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=Eltaj&password=190407011
+
+<> 2023-02-15T022433.200.txt
+
+###
+
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+Custom-Header: 556
+
+name=Eltaj&password=190407011
+
+<> 2023-02-15T022420.200.txt
+
+###
+
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=Eltaj&password=190407011
+
+<> 2023-02-15T022341.200.txt
+
+###
+
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+?name=Eltaj&password=190407011:
+
+<> 2023-02-15T022314.400.html
+
+###
+
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+?name=Eltaj&password=190407011:
+
+<> 2023-02-15T022309.400.html
+
+###
+
+POST http://localhost:8080/hello
+Content-Type: application/x-www-form-urlencoded
+name=Eltaj&password=190407011:
+
+<> 2023-02-15T022300.400.html
+
+###
+
+POST http://localhost:8080/hello?user=Eltaj&password=190407011
+
+<> 2023-02-15T022119.200.txt
+
+###
+
+GET http://localhost:8080/hello;
+
+<> 2023-02-15T022019.200.txt
+
+###
+
+GET http://localhost:8080/hello
+
+<> 2023-02-15T021959.200.txt
+
+###
+
