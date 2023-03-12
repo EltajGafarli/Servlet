@@ -9,7 +9,7 @@ public class DBProperties {
         property.setProperty("hibernate.connection.driver_class", "com.mysql.cj.jdbc.Driver");
         property.setProperty("hibernate.connection.url", "jdbc:mysql://localhost:3306/hibertest");
         property.setProperty("hibernate.connection.username", "root");
-        property.setProperty("hibernate.connection.password", "190407011");
+        property.setProperty("hibernate.connection.password", "root");
         property.setProperty("hibernate.connection.pool_size", "1");
         property.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");
         property.setProperty("current_session_context_class", "thread");
